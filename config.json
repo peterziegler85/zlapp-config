@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "updatedAt": "2026-04-15T04:57:47Z",
+  "users": [
+    {
+      "deviceHash": "11c98ab0a806230cb7f0c14a99193f1a09ffd678e6ecf691f93cd8bcc8c7fbd8",
+      "enabled": true,
+      "validUntilUtc": null
+    },
+    {
+      "deviceHash": "beeca931644615a4ae0dd36507aec1e28204f65e65ec18384448f391e36a2f46",
+      "enabled": true,
+      "validUntilUtc": null
+    }
+  ]
+}
